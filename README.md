@@ -1,1 +1,2 @@
 # odin-recipes
+This wepage is made to practice what I have learned in HTML so far. I created a page dedicated to family recipes from Hawaii. Creating this page will provide me with practice in creating headings, lists, and links to other pages and images. 
